@@ -1,16 +1,13 @@
-### Hi there 👋
+### It’s-a Me, Mario! 
 
-<!--
-**mariofv/mariofv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎮 I’m currently working on Crytek as Jr. Gameplay Programmer
+- ✏️ I’m currently learning how to draw.
+- 💬 Ask me about videogames, I love to discuss about them!
+- 📫 How to reach me: Just send me an email :)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=mariofv&&show_icons=true&&theme=dark" width="60.25%"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofv&&theme=dark" width="25%"/>
+</p>
