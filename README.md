@@ -3,7 +3,6 @@
 - 🎮 I’m currently working on Crytek as Jr. Gameplay Programmer
 - ✏️ I’m currently learning how to draw.
 - 💬 Ask me about videogames, I love to discuss about them!
-- 📫 How to reach me: Just send me an email :)
 
 <br>
 
