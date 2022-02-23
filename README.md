@@ -1,7 +1,7 @@
 ### It’s-a Me, Mario! 
 
-- 🎮 I’m currently working on Crytek as Jr. Gameplay Programmer
-- ✏️ I’m currently learning how to draw.
+- 🎮 I’m currently working on Deck 13 as Jr. Gameplay Programmer
+- ✏️ I’m currently learning how to draw pixel art.
 - 💬 Ask me about videogames, I love to discuss about them!
 
 <br>
